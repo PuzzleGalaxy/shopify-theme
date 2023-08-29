@@ -113,20 +113,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "all-products"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "moyu-aochuang-gts-m-5x5-magnetic-layer-puzzle-speed-cube-fast-unique-new",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "cast-puzzles"
           }
         }
       },
