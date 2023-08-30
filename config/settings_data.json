@@ -112,6 +112,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/PuzzleGalaxy_Logo_SMALL_4566232d-adc5-4103-8140-bb9f64bdb430.png",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
