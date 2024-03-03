@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "We will be away until the 3rd of January, any orders will be shipped after then.",
+            "text": "",
             "link": ""
           }
         }
